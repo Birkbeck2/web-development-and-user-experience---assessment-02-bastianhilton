@@ -72,7 +72,7 @@ main {
     height: 100%;
     position: relative;
     top: 35px;
-    background-image: url(/assets/meal-gd261a872c_1920.jpg);
+    background-image: url(assets/meal-gd261a872c_1920.jpg);
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -99,7 +99,7 @@ main {
     height: 100%;
     position: relative;
     top: 75px;
-    background-image: url(/assets/sitemap.jpeg);
+    background-image: url(assets/sitemap.jpeg);
     background-size:contain;
     background-position: top;
     background-repeat: no-repeat;
